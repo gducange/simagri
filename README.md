@@ -1,2 +1,2 @@
 # simagri
-Outil pour simagri
+Outil pour simagri.
